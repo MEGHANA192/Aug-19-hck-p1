@@ -1,0 +1,39 @@
+What is the capital of Andhra Pradesh?;Amaravati;Hyderabad;Vijayawada;Visakhapatnam;Amaravati
+What is the capital of Arunachal Pradesh?;Itanagar;Guwahati;Shillong;Imphal;Itanagar
+What is the capital of Assam?;Dispur;Guwahati;Jorhat;Silchar;Dispur
+What is the capital of Bihar?;Patna;Gaya;Bhagalpur;Muzaffarpur;Patna
+What is the capital of Chhattisgarh?;Raipur;Bilaspur;Durg;Korba;Raipur
+What is the capital of Goa?;Panaji;Margao;Vasco da Gama;Mapusa;Panaji
+What is the capital of Gujarat?;Gandhinagar;Ahmedabad;Surat;Vadodara;Gandhinagar
+What is the capital of Haryana?;Chandigarh;Gurugram;Faridabad;Panipat;Chandigarh
+What is the capital of Himachal Pradesh?;Shimla;Dharamshala;Manali;Kullu;Shimla
+What is the capital of Jharkhand?;Ranchi;Jamshedpur;Dhanbad;Bokaro;Ranchi
+What is the capital of Karnataka?;Bengaluru;Mysuru;Mangaluru;Hubballi;Bengaluru
+What is the capital of Kerala?;Thiruvananthapuram;Kochi;Kozhikode;Thrissur;Thiruvananthapuram
+What is the capital of Madhya Pradesh?;Bhopal;Indore;Gwalior;Jabalpur;Bhopal
+What is the capital of Maharashtra?;Mumbai;Pune;Nagpur;Nashik;Mumbai
+What is the capital of Manipur?;Imphal;Aizawl;Agartala;Guwahati;Imphal
+What is the capital of Meghalaya?;Shillong;Guwahati;Agartala;Imphal;Shillong
+What is the capital of Mizoram?;Aizawl;Shillong;Imphal;Agartala;Aizawl
+What is the capital of Nagaland?;Kohima;Dimapur;Itanagar;Shillong;Kohima
+What is the capital of Odisha?;Bhubaneswar;Cuttack;Rourkela;Sambalpur;Bhubaneswar
+What is the capital of Punjab?;Chandigarh;Amritsar;Ludhiana;Jalandhar;Chandigarh
+What is the capital of Rajasthan?;Jaipur;Jodhpur;Udaipur;Kota;Jaipur
+What is the capital of Sikkim?;Gangtok;Darjeeling;Kalimpong;Siliguri;Gangtok
+What is the capital of Tamil Nadu?;Chennai;Coimbatore;Madurai;Tiruchirappalli;Chennai
+What is the capital of Telangana?;Hyderabad;Warangal;Nizamabad;Khammam;Hyderabad
+What is the capital of Tripura?;Agartala;Shillong;Aizawl;Guwahati;Agartala
+What is the capital of Uttar Pradesh?;Lucknow;Kanpur;Varanasi;Allahabad;Lucknow
+What is the capital of Uttarakhand?;Dehradun;Haridwar;Nainital;Almora;Dehradun
+What is the capital of West Bengal?;Kolkata;Darjeeling;Siliguri;Howrah;Kolkata
+What is the capital of Andaman and Nicobar Islands?;Port Blair;Diglipur;Rangat;Car Nicobar;Port Blair
+What is the capital of Chandigarh (Union Territory)?;Chandigarh;Panchkula;Mohali;Kharar;Chandigarh
+What is the capital of Dadra and Nagar Haveli and Daman and Diu?;Daman;Silvassa;Diu;Amli;Daman
+What is the capital of Lakshadweep?;Kavaratti;Agatti;Minicoy;Amini;Kavaratti
+What is the capital of Delhi?;New Delhi;Faridabad;Ghaziabad;Noida;New Delhi
+What is the capital of Puducherry?;Puducherry;Karaikal;Mahe;Yanam;Puducherry
+What is the capital of Jammu and Kashmir?;Srinagar (Summer), Jammu (Winter);Leh;Kargil;Anantnag;Srinagar (Summer), Jammu (Winter)
+What is the capital of Ladakh?;Leh;Kargil;Srinagar;Dras;Leh
+
+
+
